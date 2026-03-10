@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph UserSpace ["🖥️ Capa de Usuario (User Space)"]
         direction LR
